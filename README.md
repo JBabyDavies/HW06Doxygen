@@ -1,5 +1,5 @@
 # doxygen-cmake-github
-Demonstrates Doxygen html generation and publishing on GitHub Pages. The Doxygen files for this project can be seen [here](https://semcneil.github.io/doxygen-cmake-github/).
+Demonstrates Doxygen html generation and publishing on GitHub Pages. The Doxygen files for this project can be seen [here](https://jbabydavies.github.io/HW06Doxygen/).
 
 # How to use
 1. Point your browser to this repository (https://github.com/JBabyDavies/HW06Doxygen)
