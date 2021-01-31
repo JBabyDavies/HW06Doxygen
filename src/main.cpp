@@ -1,9 +1,9 @@
 /**
  * @file main.cpp
- * @brief This is a test of CMake, doxygen, and GitHub.
- * @details This is the long brief at the top of main.cpp.
- * @author Seth McNeill
- * @date 1/28/2021
+ * @brief This is an example of setting up Doxygen to auto generate a documentation guide.
+ * @details This program is an example for future programs that generates a documentation guide.
+ * @author Jordan Davis
+ * @date 2/1/2021
  * 
  */
 
